@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestaoEstoqueApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b7b51629f2b4eab38406cd298a899a898c9636b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+312001f737eabe49652cc3c1e36f4c8137a159ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestaoEstoqueApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestaoEstoqueApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

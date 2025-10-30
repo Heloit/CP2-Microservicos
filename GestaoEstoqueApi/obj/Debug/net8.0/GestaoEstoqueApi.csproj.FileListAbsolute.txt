@@ -131,3 +131,14 @@ D:\CP2-MICROSSERVICOS\GestaoEstoqueApi\GestaoEstoqueApi\obj\Debug\net8.0\refint\
 D:\CP2-MICROSSERVICOS\GestaoEstoqueApi\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.pdb
 D:\CP2-MICROSSERVICOS\GestaoEstoqueApi\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.genruntimeconfig.cache
 D:\CP2-MICROSSERVICOS\GestaoEstoqueApi\GestaoEstoqueApi\obj\Debug\net8.0\ref\GestaoEstoqueApi.dll
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.csproj.AssemblyReference.cache
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.AssemblyInfoInputs.cache
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.AssemblyInfo.cs
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.csproj.CoreCompileInputs.cache
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.MvcApplicationPartsAssemblyInfo.cs
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.MvcApplicationPartsAssemblyInfo.cache
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.sourcelink.json
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.dll
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\refint\GestaoEstoqueApi.dll
+D:\3SIS\CP2-Microservicos\GestaoEstoqueApi\obj\Debug\net8.0\GestaoEstoqueApi.pdb
